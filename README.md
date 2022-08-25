@@ -1,4 +1,4 @@
-# Proxy server
+# Send results
 A simple app to send emails with results to users specified in a json file.
 
 ### Install
